@@ -2,7 +2,7 @@ export default function Home() {
   const ownerName = "Patel Swapnil Natvarbhai"; // Replace with owner's name
   const primaryPhone = "+91 9106992433";
   const secondaryPhone = "+91 7984794994";
-  const whatsappNumber = "9106992433"; // Format: country code + number without +
+  const whatsappNumber = "919106992433"; // Format: country code + number without +
   const city = "Himmatnagar";
 
   return (
